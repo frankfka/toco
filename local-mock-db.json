@@ -1,0 +1,43 @@
+{
+  "globals": {
+    "issuingAccount": {
+      "publicKey": "GCL3PIK65NGMJC4YSR2HFL3EJDCZVQ7IAXTHIJGEIX3BMBQ4VN5X72JO",
+      "secretKey": "SDTBVPWDUG2Z46BRM6G4TNFKJI5S7KWCQKWZHUSMUV6VXU6DQCBUZYGB"
+    }
+  },
+  "users": {
+    "zfMb3Eq83dPqCpYvgVryA": {
+      "id": "zfMb3Eq83dPqCpYvgVryA",
+      "digitalBitsAccount": {
+        "publicKey": "GADFV5KZFKVGXSCXBCBKEH5WYMQ6LFGOWLDVVZXE3HBJ7XETJDU5PLNA",
+        "secretKey": "SA34JUES2JIDCJCFPZK35DMAAJKEA5SHSRVJ3RU355KMWOEKCOOYQ5F7"
+      }
+    },
+    "HOhaMCYwdj6wvSdbBzHAK": {
+      "id": "HOhaMCYwdj6wvSdbBzHAK",
+      "digitalBitsAccount": {
+        "publicKey": "GB6BIWVRTNOOVPEKLIKDNLIBGGYODWCOXUTJVNPGF7J34JR6NEJWRJH5",
+        "secretKey": "SAPIQM2B7BTRGUPPDQHV4ZIVUHJDHILGZ7TOG3POFJRAUETUO3XW4ULE"
+      }
+    },
+    "tKnyfpxd4JO2GIs-6RTt1": {
+      "id": "tKnyfpxd4JO2GIs-6RTt1",
+      "digitalBitsAccount": {
+        "publicKey": "GCIWGNMMI5PHXCGQLIKFPOBQUFNJYPAICFCKJ6NY6ZJWDTFUQHNYCE2N",
+        "secretKey": "SCF6CKJORXR2K4UB7BGN5BNWQ3LVHCVHFTBR64YWIDLWGYNVMX4FYZUJ"
+      }
+    }
+  },
+  "tokens": {
+    "MyTok12": {
+      "code": "MyTok12",
+      "name": "My Token Name",
+      "creatorId": "zfMb3Eq83dPqCpYvgVryA"
+    },
+    "AwesomeToken": {
+      "code": "AwesomeToken",
+      "name": "My Awesome Tokene",
+      "creatorId": "tKnyfpxd4JO2GIs-6RTt1"
+    }
+  }
+}
